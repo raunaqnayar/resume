@@ -18,13 +18,13 @@ h1.begin{
 }
 h2.begin{
     text-align: center;
-    line-height: 0.3;
+    line-height: 1;
    }
 
 p.topic{
-    line-height: 0;
+    line-height: 1;
    }
 div.right{
     text-align: right;
-    line-height: 0;
+    line-height: 1;
     }
