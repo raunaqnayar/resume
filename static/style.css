@@ -1,12 +1,16 @@
+/* For Handheld Devices */
 body {
  background-color: lightgreen;
  color: black
 }
+
 table{
-    
+
     margin-left: auto;
     margin-right: auto;
+
 }
+
 div.nav_bar{
     background-color: lightgreen;
 }
@@ -21,10 +25,57 @@ h2.begin{
     line-height: 1;
    }
 
+
 p.topic{
     line-height: 1;
    }
+
+
 div.right{
     text-align: right;
     line-height: 1;
     }
+
+/* For Laptops */
+
+@media only screen and (min-width: 1512px) {
+
+body {
+ background-color: lightgreen;
+ color: black
+}
+
+table{
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+div.nav_bar{
+    background-color: lightgreen;
+}
+div.head{
+    background-color: lightgoldenrodyellow;
+}
+h1.begin{
+ text-align: center;
+}
+h2.begin{
+    text-align: center;
+    line-height: 0.3;
+   }
+
+
+p.topic{
+    line-height: 0.3;
+   }
+
+
+div.right{
+    text-align: right;
+    line-height: 0.3;
+    }
+
+
+}
