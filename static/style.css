@@ -7,7 +7,7 @@ body {
 }
 */
 body {
-    background-color: rgb(204, 255, 153);
+    background-color: lightgoldenrodyellow;
     color: black
    }
 
@@ -23,16 +23,16 @@ div.nav_bar{
 }
 */
 div.nav_bar{
-    background-color: rgb(204, 255, 153);
+    background-color: lightgoldenrodyellow;
 }
 
 h3.subsection{
-    background-color: lightgoldenrodyellow;
+    background-color: rgb(204, 255, 153);
     text-align: center;
 }
 
 div.head{
-    background-color: lightgoldenrodyellow;
+    background-color: rgb(204, 255, 153);
 }
 
 
@@ -69,7 +69,7 @@ body {
 }
 */
 body {
-    background-color: rgb(204, 255, 153);
+    background-color: lightgoldenrodyellow;
     color: black
    }
 table{
@@ -84,15 +84,15 @@ div.nav_bar{
 }
 */
 div.nav_bar{
-    background-color: rgb(204, 255, 153);
+    background-color: lightgoldenrodyellow;
 }
 
 h3.subsection{
-    background-color: lightgoldenrodyellow;
+    background-color: rgb(204, 255, 153);
     text-align: center;
 }
 div.head{
-    background-color: lightgoldenrodyellow;
+    background-color: rgb(204, 255, 153);
 }
 
 h1.begin{
