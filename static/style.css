@@ -36,6 +36,11 @@ div.right{
     line-height: 1;
     }
 
+button{
+    width: 50px;
+    height: 20px;
+    }
+
 /* For Laptops */
 
 @media only screen and (min-width: 1512px) {
