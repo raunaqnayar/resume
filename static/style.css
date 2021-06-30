@@ -16,8 +16,16 @@ div.nav_bar{
     background-color: rgb(255, 195, 172);
 }
 */
+h3.subsection{
+    background-color: rgb(102,255,255)
+}
+/*
 div.head{
     background-color: lightgoldenrodyellow;
+}
+*/
+div.head{
+    background-color: rgb(255,178,102);
 }
 h1.begin{
  text-align: center;
@@ -62,8 +70,16 @@ div.nav_bar{
     background-color: rgb(255, 195, 172);
 }
 */
+h3.subsection{
+    background-color: rgb(102,255,255)
+}
+/*
 div.head{
     background-color: lightgoldenrodyellow;
+}
+*/
+div.head{
+    background-color: rgb(255,178,102);
 }
 h1.begin{
  text-align: center;
