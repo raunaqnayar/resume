@@ -17,7 +17,8 @@ div.nav_bar{
 }
 
 h3.subsection{
-    background-color: rgb(102,255,255)
+    background-color: lightgoldenrodyellow;
+    text-align: center;
 }
 
 div.head{
@@ -69,7 +70,8 @@ div.nav_bar{
 }
 
 h3.subsection{
-    background-color: rgb(102,255,255)
+    background-color: lightgoldenrodyellow;
+    text-align: center;
 }
 div.head{
     background-color: lightgoldenrodyellow;
